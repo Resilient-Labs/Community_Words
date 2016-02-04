@@ -1,0 +1,2 @@
+THEME = 'default'
+FLASK_DEBUG = 'true'
